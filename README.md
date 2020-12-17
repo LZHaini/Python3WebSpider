@@ -7,7 +7,7 @@
 
 作者：崔庆才
 
-![](./assets/cover.jpg)
+![](image/cover.jpg)
 
 购买地址：
 * [https://item.jd.com/12333540.html](https://item.jd.com/12333540.html) 
